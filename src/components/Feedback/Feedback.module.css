@@ -1,0 +1,18 @@
+.buttons {
+    display: flex;
+    margin-top: 10px;
+    gap:15px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 20px;
+    border: 1px solid grey;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #FFFFE0;
+}
+.btn:hover{
+background-color: #FFE4B5;
+}
